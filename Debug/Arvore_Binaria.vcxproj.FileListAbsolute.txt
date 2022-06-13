@@ -1,0 +1,2 @@
+E:\Repos\ArvoreBinaria\Debug\Arvore_Binaria.exe
+E:\Repos\ArvoreBinaria\Debug\Arvore_Binaria.pdb
